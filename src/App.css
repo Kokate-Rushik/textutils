@@ -1,0 +1,55 @@
+
+.aut {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: flex-end;
+}
+
+.HPs {
+  max-width: 20px;
+  font-size: 10px;
+  max-height: 20px;
+  border: none;
+  color: grey;
+  justify-items: flex-end;
+}
+
+.container {
+  padding: 20px;
+  font-size: 20px
+}
+
+.navbar-brand {
+  width: 80%;
+}
+
+.accordion-button::after {
+  background-color: grey;
+}
+
+
+/* Below style is needed when working without router */
+.analyse-list {
+  padding: 0;
+  list-style: none;
+}
+
+@media (min-width: 1400px) {
+  .container {
+    max-width: 86%;
+  }
+}
+@media (max-width: 385px) {
+  .navbar-brand {
+    max-width: 50%;
+  }
+}
+@media (min-width: 990px) {
+  #navbarSupportedContent {
+    display: flex;
+  }
+  .navbar-toggler {
+    justify-items: flex-end;
+  }
+}
+
