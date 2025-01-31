@@ -22,6 +22,7 @@ function App() {
 
   const handleautClick = () => {
     let ref = prompt(">>>");
+    if (ref) console.log(ref + " is Rushik, C-12");
   };
 
   const toggleMode = () => {
