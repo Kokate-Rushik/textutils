@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Kokate-Rushik/textutils/static/css/main.c568becf.css",
-    "main.js": "/Kokate-Rushik/textutils/static/js/main.802c9612.js",
-    "static/js/488.9c92ff38.chunk.js": "/Kokate-Rushik/textutils/static/js/488.9c92ff38.chunk.js",
-    "index.html": "/Kokate-Rushik/textutils/index.html",
-    "main.c568becf.css.map": "/Kokate-Rushik/textutils/static/css/main.c568becf.css.map",
-    "main.802c9612.js.map": "/Kokate-Rushik/textutils/static/js/main.802c9612.js.map",
-    "488.9c92ff38.chunk.js.map": "/Kokate-Rushik/textutils/static/js/488.9c92ff38.chunk.js.map"
+    "main.css": "/textutils/static/css/main.c568becf.css",
+    "main.js": "/textutils/static/js/main.969802e9.js",
+    "static/js/488.9c92ff38.chunk.js": "/textutils/static/js/488.9c92ff38.chunk.js",
+    "index.html": "/textutils/index.html",
+    "main.c568becf.css.map": "/textutils/static/css/main.c568becf.css.map",
+    "main.969802e9.js.map": "/textutils/static/js/main.969802e9.js.map",
+    "488.9c92ff38.chunk.js.map": "/textutils/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c568becf.css",
-    "static/js/main.802c9612.js"
+    "static/js/main.969802e9.js"
   ]
 }
